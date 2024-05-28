@@ -21,6 +21,7 @@ if (window.env.isDemoMode === true) {
 	console.warn('Ackee runs in demo mode')
 }
 
+
 const {
 	statusLink,
 	useLoading,
